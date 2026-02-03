@@ -1,12 +1,12 @@
-## Hi there 👋 I'm Mahdi Sahli
+## Hi there  I'm Mahdi Sahli
 
-🎯 **Aspiring Data Analyst / Business Analyst (Entry-Level)**  
+ **Aspiring Data Analyst / Business Analyst (Entry-Level)**  
 📍 Ottawa, ON | 🇨🇦  
 🎓 Data Science graduate (April)
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I’m an **entry-level Data Analyst** based in Ottawa, graduating in **Data Science this April**.  
 I enjoy transforming **raw data into meaningful insights** using Python, R, SQL, and Excel.
