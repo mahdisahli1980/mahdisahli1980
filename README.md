@@ -1,62 +1,78 @@
-## Hi there  I'm Mahdi Sahli
+# Mahdi Sahli – Data & Business Analyst Portfolio
 
- **Aspiring Data Analyst / Business Analyst (Entry-Level)**  
-📍 Ottawa, ON | 🇨🇦  
-🎓 Data Science graduate (April)
+Welcome to my personal portfolio website.
 
----
+This website showcases my background, skills, and selected projects in **data analysis**, **business analytics**, and **data-driven decision making**.
 
-###  About Me
-
-I’m an **entry-level Data Analyst** based in Ottawa, graduating in **Data Science this April**.  
-I enjoy transforming **raw data into meaningful insights** using Python, R, SQL, and Excel.
-
-I have hands-on experience working on **academic and applied data projects**, where I translate business questions into data-driven analyses. I also bring a strong **business background** from previous management and leadership roles.
-
-I’m currently building and refining my portfolio through **data analysis, database, and machine learning projects**.
+🌐 **Live website**  
+👉 https://mahdisahli1980.github.io
 
 ---
 
-### 🛠️ Technical Skills
+## 👋 About Me
 
-- **Programming:** Python, R, Java  
-- **Databases:** SQL (MySQL), schema design, querying  
-- **Data Analysis:** data cleaning, descriptive statistics, Excel dashboards  
-- **AI / Machine Learning:** supervised learning (classification & regression), model evaluation  
-- **Cloud & Tools:** Basic AWS (EC2, S3, ALB)  
-- **Languages:** French 🇫🇷 | English 🇬🇧 | Arabic 🌍  
+I am an **entry-level Data Analyst based in Ottawa, Canada**, with a strong business background in **telecommunications, retail, and customer-facing roles**.
 
----
+I work with **Python, R, SQL, and Excel** to:
+- clean and prepare data,
+- analyze trends and performance,
+- build supervised machine learning models,
+- communicate insights clearly to non-technical stakeholders.
 
-### 📊 Current Focus
-
-- 🔭 Working on **data analysis and SQL projects**  
-- 🌱 Strengthening **machine learning and data visualization** skills  
-- 📈 Improving **business-oriented data storytelling**  
-- 🤝 Open to **entry-level Data Analyst / Business Analyst opportunities**
+My professional experience in **sales management, business development, and telecommunications** allows me to approach data problems with a strong **business and customer-focused perspective**.
 
 ---
 
-### 💼 Experience Snapshot
+## 🛠️ Technical Skills
 
-- **Data Analyst** – La Cité, Ottawa  
-  *Python, R, SQL, data cleaning, visualization, business-focused analysis*
-
-- **Store Manager** – Best Batteries (Tunisia)  
-  *Operations, reporting, ERP tools, inventory, team management*
-
-- **Business Development Director** – Qtech+  
-  *ERP implementation, market analysis, e-commerce strategy*
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib), R (tidyverse, ggplot2)  
+- **Databases**: SQL (MySQL)  
+- **Data Visualization**: Excel dashboards, charts, reporting  
+- **Analytics**: Exploratory Data Analysis (EDA), regression, classification, KPIs  
+- **Tools & Technologies**: HTML, CSS, Bootstrap, GitHub, GitHub Pages  
 
 ---
 
-### 📫 How to Reach Me
+## 📂 Featured Projects
 
-- 📧 Email: **mahdisahli1980@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mahdi-sahli-on-ca](https://linkedin.com/in/mahdi-sahli-on-ca)
+Some examples of projects presented on the website:
+
+- **Retail Sales Performance Dashboard**  
+  Exploratory analysis and Excel dashboard to track sales, margins, and top-performing products.
+
+- **Housing Price Prediction (R)**  
+  Multiple linear regression with diagnostics, feature selection, and model evaluation.
+
+- **Transport Management Database (MySQL)**  
+  Relational database design with constraints, queries, and stored procedures.
+
+- **Car Battery Recommendation App**  
+  Web application using PHP & MySQL to recommend car batteries based on vehicle attributes.
+
+👉 Full details are available directly on the portfolio website.
 
 ---
 
-### ⚡ Fun Fact
+## 🎓 Education
 
-I combine **hands-on business experience** with **data analytics skills** to turn data into actionable decisions.
+- **Data Science – College Diploma (in progress)**  
+  La Cité, Ottawa, ON  
+
+- **Bachelor’s Degree in Marketing**  
+  University of Tunis El Manar (WES equivalent: Canadian Bachelor’s Degree)
+
+---
+
+## 📬 Contact
+
+- 📍 Location: Ottawa, ON, Canada  
+- 📧 Email: mahdisahli1980@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/mahdi-sahli-on-ca  
+- 💻 GitHub: https://github.com/mahdisahli1980  
+
+---
+
+
+Thank you for visiting my portfolio.
+Feel free to explore the projects or reach out for opportunities, collaborations, or discussions.
+
