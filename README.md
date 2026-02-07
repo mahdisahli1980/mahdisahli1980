@@ -1,78 +1,56 @@
-# Mahdi Sahli – Data & Business Analyst Portfolio
+# 👋 Hi, I'm Mahdi Sahli
 
-Welcome to my personal portfolio website.
+Data & Business Analyst based in **Ottawa, Canada**, with a strong background in **telecommunications, sales management, and business development**.
 
-This website showcases my background, skills, and selected projects in **data analysis**, **business analytics**, and **data-driven decision making**.
-
-🌐 **Live website**  
-👉 https://mahdisahli1980.github.io
+I combine **business understanding** with **data analysis** to support decision-making, performance tracking, and process improvement.
 
 ---
 
-## 👋 About Me
+## 💼 Professional Background
 
-I am an **entry-level Data Analyst based in Ottawa, Canada**, with a strong business background in **telecommunications, retail, and customer-facing roles**.
+I have several years of experience in:
+- **Sales and commercial management** (telecommunications sector)
+- **Customer-facing and retail environments**
+- **Business development and ERP implementation**
 
-I work with **Python, R, SQL, and Excel** to:
-- clean and prepare data,
-- analyze trends and performance,
-- build supervised machine learning models,
-- communicate insights clearly to non-technical stakeholders.
-
-My professional experience in **sales management, business development, and telecommunications** allows me to approach data problems with a strong **business and customer-focused perspective**.
+This background allows me to approach data problems with a **practical, results-oriented mindset**.
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 Data & Analytics Skills
 
-- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib), R (tidyverse, ggplot2)  
+- **Programming & Analysis**: Python (Pandas, NumPy), R (tidyverse)  
 - **Databases**: SQL (MySQL)  
-- **Data Visualization**: Excel dashboards, charts, reporting  
-- **Analytics**: Exploratory Data Analysis (EDA), regression, classification, KPIs  
-- **Tools & Technologies**: HTML, CSS, Bootstrap, GitHub, GitHub Pages  
+- **Data Visualization & BI**: **Power BI**, **Tableau**, Excel dashboards, reporting  
+- **Analytics & Modeling**: Exploratory Data Analysis (EDA), KPIs, regression, classification  
+- **Machine Learning & Deep Learning**: supervised ML models, **Deep Learning (foundations)**  
+- **Tools**: Git, GitHub, Excel, HTML/CSS (for data presentation)
 
 ---
 
-## 📂 Featured Projects
+## 🎯 What I’m Interested In
 
-Some examples of projects presented on the website:
-
-- **Retail Sales Performance Dashboard**  
-  Exploratory analysis and Excel dashboard to track sales, margins, and top-performing products.
-
-- **Housing Price Prediction (R)**  
-  Multiple linear regression with diagnostics, feature selection, and model evaluation.
-
-- **Transport Management Database (MySQL)**  
-  Relational database design with constraints, queries, and stored procedures.
-
-- **Car Battery Recommendation App**  
-  Web application using PHP & MySQL to recommend car batteries based on vehicle attributes.
-
-👉 Full details are available directly on the portfolio website.
+- Data Analyst / Business Analyst roles  
+- Business Intelligence & Data Visualization  
+- Machine Learning & applied Deep Learning  
+- Data-driven decision making and performance analysis  
 
 ---
 
-## 🎓 Education
+## 🌱 Currently Learning
 
-- **Data Science – College Diploma (in progress)**  
-  La Cité, Ottawa, ON  
-
-- **Bachelor’s Degree in Marketing**  
-  University of Tunis El Manar (WES equivalent: Canadian Bachelor’s Degree)
+- Advanced data analysis techniques  
+- Machine Learning & **Deep Learning** (model training and evaluation)  
+- Improving data storytelling and visualization  
 
 ---
 
-## 📬 Contact
+## 📬 Let’s Connect
 
 - 📍 Location: Ottawa, ON, Canada  
 - 📧 Email: mahdisahli1980@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mahdi-sahli-on-ca  
-- 💻 GitHub: https://github.com/mahdisahli1980  
 
 ---
 
-
-Thank you for visiting my portfolio.
-Feel free to explore the projects or reach out for opportunities, collaborations, or discussions.
-
+Thanks for visiting my GitHub profile!
